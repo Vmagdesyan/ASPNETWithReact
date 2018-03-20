@@ -1,0 +1,10 @@
+E:\VS Projects\ASPNETWithReact\bin\Debug\netcoreapp2.0\ASPNETWithReact.deps.json
+E:\VS Projects\ASPNETWithReact\bin\Debug\netcoreapp2.0\ASPNETWithReact.runtimeconfig.json
+E:\VS Projects\ASPNETWithReact\bin\Debug\netcoreapp2.0\ASPNETWithReact.runtimeconfig.dev.json
+E:\VS Projects\ASPNETWithReact\bin\Debug\netcoreapp2.0\ASPNETWithReact.dll
+E:\VS Projects\ASPNETWithReact\bin\Debug\netcoreapp2.0\ASPNETWithReact.pdb
+E:\VS Projects\ASPNETWithReact\obj\Debug\netcoreapp2.0\ASPNETWithReact.csproj.CoreCompileInputs.cache
+E:\VS Projects\ASPNETWithReact\obj\Debug\netcoreapp2.0\ASPNETWithReact.AssemblyInfoInputs.cache
+E:\VS Projects\ASPNETWithReact\obj\Debug\netcoreapp2.0\ASPNETWithReact.AssemblyInfo.cs
+E:\VS Projects\ASPNETWithReact\obj\Debug\netcoreapp2.0\ASPNETWithReact.dll
+E:\VS Projects\ASPNETWithReact\obj\Debug\netcoreapp2.0\ASPNETWithReact.pdb
